@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "color-clock",
   "version": "1.0.0",
@@ -12,3 +13,6 @@
     "moment": "^2.29.1"
   }
 }
+=======
+{  "name": "color-clock",  "version": "1.0.0",  "description": "",  "main": "index.js",  "scripts": {    "test": "echo 'Hello World!'"  },  "author": "",  "license": "ISC",  "dependencies": {    "moment": "^2.29.1"  }}
+>>>>>>> 0d269de94adda890cc990b90830dd2a4dfdafc02
